@@ -1,7 +1,8 @@
 # Starter Web Project
 
 This is is a simple site.
-Adding a line for rebasing example
+Adding a line for rebasing example,
+more changes from my feature branch too
 
 ## Introduction
 
