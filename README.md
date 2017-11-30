@@ -16,6 +16,8 @@ This is some deployment text
 
 ## How To Contribute
 
+Please fork repository and then submit a pull request for review
+
 ## Copyright
 
 Copyright data
