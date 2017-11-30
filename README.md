@@ -15,3 +15,7 @@ This is some purpose text
 This is some deployment text
 
 ## How To Contribute
+
+## Copyright
+
+Copyright data
