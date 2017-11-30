@@ -22,4 +22,4 @@ Please fork repository and then submit a pull request for review
 
 ## Copyright
 
-Copyright data
+Copyright data. all rights reserved
