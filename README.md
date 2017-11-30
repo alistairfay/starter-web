@@ -1,6 +1,7 @@
 # Starter Web Project
 
-This is is a simple site
+This is is a simple site.
+Adding a line for rebasing example
 
 ## Introduction
 
