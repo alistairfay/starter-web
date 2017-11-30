@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Alistair Fay    Techie Dude     alistair.fay@gmail.com
 
 # THANKS
 
